@@ -92,7 +92,7 @@ if ($stmt) {
 
 
     <footer>
-        <p>© 2023 Pacientų Registracijos Sistema</p>
+        <p>© 2023 Pacientų Registracijos Sistema. Autorius: Jaunius Šilingas. Vadovas: Gadeikytė Aušra</p>
     </footer>
     <script src="/ligonine/patient/js/getDoctors.js"></script>
     <script src="/ligonine/patient/js/getAvailableAppointments.js"></script>

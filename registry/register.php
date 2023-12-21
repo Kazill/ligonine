@@ -158,6 +158,9 @@ error_reporting(E_ALL);
         </form>
         <button class="main-menu-button" onclick="window.location.href='/ligonine/index.php'">Pradinis puslapis</button>
     </section>
+    <footer>
+        <p>© 2023 Pacientų Registracijos Sistema. Autorius: Jaunius Šilingas. Vadovas: Gadeikytė Aušra</p>
+    </footer>
     <script>
         function toggleSpecialty() {
             var userType = document.getElementById('user-type').value;

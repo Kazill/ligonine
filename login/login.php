@@ -29,6 +29,9 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/ligonine/config.php');
         </form>
         <button class="main-menu-button" onclick="window.location.href='/ligonine/index.php'">Pradinis puslapis</button>
     </section>
+    <footer>
+        <p>© 2023 Pacientų Registracijos Sistema. Autorius: Jaunius Šilingas. Vadovas: Gadeikytė Aušra</p>
+    </footer>
     <script src="js/login.js"></script>
 </body>
 </html>

@@ -90,7 +90,7 @@ if ($isLoggedIn && $user && $_SESSION['user_role'] == "admin") {
     </main>
 
     <footer>
-        <p>© 2023 Pacientų Registracijos Sistema. Autorius: Jaunius Šilingas. Vadovas: Vilutis Gytis arba Gadeikytė Aušra</p>
+        <p>© 2023 Pacientų Registracijos Sistema. Autorius: Jaunius Šilingas. Vadovas: Gadeikytė Aušra</p>
     </footer>
     <script>
         function deleteMessage(messageId) {
